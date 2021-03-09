@@ -8,9 +8,10 @@
   Search dates in Arrays
   
   Based on Array, Books per Category, build the following challenges:
-  - [ ] Get the amount of categories, and the amount of books on each category.
-  - [ ] Get the amount of authors.
-  - [ ] Show the books writed by Augusto Cury.
-  - [ ] Use the previous function, to get the author's name, and return the books writed by him.
+  
+  - Get the amount of categories, and the amount of books on each category.
+  - Get the amount of authors.
+  - Show the books writed by Augusto Cury.
+  - Use the previous function, to get the author's name, and return the books writed by him.
 
 ```
